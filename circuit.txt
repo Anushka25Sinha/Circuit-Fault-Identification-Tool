@@ -1,0 +1,4 @@
+net_e=~A
+net_f=C^D
+net_g=B&net_f
+Z=net_g|net_e
